@@ -1,0 +1,104 @@
+Body 
+{
+
+    font-family: 'Indie Flower', cursive;
+margin: 0;
+background-color: #e9edc9;
+}
+
+.Mail {
+position: fixed;
+font-size: 2em;
+margin: 0;
+top: 10px;
+right: 10px;
+}
+
+.Wiki {
+    position: fixed;
+font-size: 2em;
+margin: auto;
+top: 10px;
+right: 120px;
+}
+
+.Market {
+    position: fixed;
+font-size: 2em;
+margin: auto;
+top: 10px;
+right: 280px;
+}
+
+.Intro {
+    display: flex;
+    flex-direction: column;
+}
+
+.Segundo {display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center ;
+}
+
+
+.Tercero {display: flex;
+    flex-direction: column;
+text-align: center;
+justify-content: center;}
+
+.Origin {display: flex;
+flex-direction: column;
+text-align: center;
+justify-content: center;}
+
+.titulo {
+    display: block;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+font-size: 4em;
+color: #5A8F7B;}
+
+.semillas {
+    display: block;
+height: 150 px;
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+}
+
+p {
+    font-size: 1.33em;
+display: block;
+margin-top: 30px;
+line-height: 190%;}
+
+.Helado {
+    display: inline-block;
+   margin-right: auto;
+   margin-left: auto;
+    height: 170px;
+    width: 170px;
+}
+
+.Tree {height: 150px;
+width: 150px;}
+
+h2 {
+    display: inline-block;
+    font-size: 3em;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+color: #5A8F7B;
+font-weight: bold;}
+
+.bold {font-weight: bold;} 
+
+a:link {
+    color:#5A8F7B}
+a:visited {
+color: #5A8F7B;
+}
+
